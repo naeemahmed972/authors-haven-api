@@ -1,0 +1,5 @@
+>> pip freeze | grep -v -x -f base.txt > local.txt
+
++ Environment Variables
+    - >> export DATABASE_URL=postgres://admin:dc080400153@127.0.0.1:5432/authors-heaven
+    
