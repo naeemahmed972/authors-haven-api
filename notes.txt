@@ -2,6 +2,3 @@
 
 + Environment Variables
     - >> export DATABASE_URL=postgres://admin:dc080400153@127.0.0.1:5432/authors-heaven
-
-+ Personal Access Github Token
-    - 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
